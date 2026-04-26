@@ -1,4 +1,4 @@
-# 📊 FinTrack — AI Financial Dashboard
+# FinTrack — AI Financial Dashboard
 
 An intelligent financial tracking dashboard featuring real-time portfolio analytics, spending insights, and interactive data visualizations with a stunning glassmorphism UI.
 
@@ -51,12 +51,6 @@ fintrack-dashboard/
 └── README.md       # Documentation
 ```
 
-## 📄 License
+## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  Built with ❤️ by <a href="https://github.com/TasfinMahmud">Tasfin Mahmud</a>
-</p>
+MIT — [Tasfin Mahmud](https://github.com/TasfinMahmud)
